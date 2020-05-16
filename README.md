@@ -1,2 +1,2 @@
-# CZaidFirstRepository.
+# ZaidFirstRepository.
 "Training Repository"
